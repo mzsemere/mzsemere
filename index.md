@@ -11,10 +11,10 @@ Welcome to my professional portfolio. I specialize in financial modeling, market
 ---
 
 ### Explore My Work
-* **[About Me](/about/)**: Learn about my background and core competencies.
-* **[Project Portfolio](/projects/)**: Detailed case studies of my financial and analytical work.
-* **[Professional Resume](/resume/)**: View my experience or download my CV.
-* **[Contact](/contact/)**: Reach out for collaborations or opportunities.
+* **[About Me](about.md)**
+* **[Project Portfolio](projects.md)**
+* **[Professional Resume](resume.md)**
+* **[Contact](contact.md)**
 
 ---
 > "Focusing on data-driven insights to solve complex business challenges."
