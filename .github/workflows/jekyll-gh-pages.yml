@@ -1,10 +1,6 @@
-title: Meron Semere
-email: msemere@andrew.cmu.edu
-description: >- # This shows up in Google search results
-  Financial Analyst specializing in [Niche, e.g., Fintech or Equity Research]. 
-  Experience in financial modeling, valuation, and strategic consulting.
+title: [Your Name]
+theme: jekyll-theme-architect
 
-# Navigation Links
 header_pages:
   - about.md
   - projects.md
@@ -17,3 +13,4 @@ github_username: yourusername
 
 # Theme settings
 theme: minima # Or the name of the theme you chose
+
